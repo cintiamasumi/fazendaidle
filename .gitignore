@@ -1,0 +1,22 @@
+# Godot
+.godot/
+
+# Importações
+.import/
+
+# Export
+export_presets.cfg
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Godot UID files
+*.uid
